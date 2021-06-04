@@ -39,7 +39,7 @@ class SimpleTelegramMessage implements SimpleTelegramMessageInterface
     public function sendMessage(int $idUser, string $message): Message
     {
         $url = $this->getSendUrl($idUser, $message);
-        
+
         $response = $this->request($url);
         
         if (!$response) {
@@ -99,7 +99,7 @@ class SimpleTelegramMessage implements SimpleTelegramMessageInterface
             static::API_URL,
             $this->token,
             $idUser,
-            $message
+            urlencode($message)
         );
     } // end getSendUrl
     

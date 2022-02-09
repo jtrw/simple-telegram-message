@@ -1,4 +1,4 @@
-# Simple Telegram Message
+# Simple Telegram Message [![Build Status](https://github.com/jtrw/simple-telegram-message/workflows/PHP%20Composer/badge.svg)](https://github.com/jtrw/simple-telegram-message/actions)
 
 
 Utils for send a simple message to telegram

@@ -1,8 +1,8 @@
 # Simple Telegram Message 
 
 [![Phpunit](https://github.com/jtrw/simple-telegram-message/workflows/PHP%20Composer/badge.svg)](https://github.com/jtrw/simple-telegram-message/actions)
-
 [![Coverage Status](https://coveralls.io/repos/github/jtrw/simple-telegram-message/badge.svg?branch=master)](https://coveralls.io/github/jtrw/simple-telegram-message?branch=master)
+[![Latest Stable Version](http://poser.pugx.org/jtrw/simple-telegram-message/v)](https://packagist.org/packages/jtrw/simple-telegram-message) [![Total Downloads](http://poser.pugx.org/jtrw/simple-telegram-message/downloads)](https://packagist.org/packages/jtrw/simple-telegram-message) [![Latest Unstable Version](http://poser.pugx.org/jtrw/simple-telegram-message/v/unstable)](https://packagist.org/packages/jtrw/simple-telegram-message) [![License](http://poser.pugx.org/jtrw/simple-telegram-message/license)](https://packagist.org/packages/jtrw/simple-telegram-message) [![PHP Version Require](http://poser.pugx.org/jtrw/simple-telegram-message/require/php)](https://packagist.org/packages/jtrw/simple-telegram-message)
 
 
 Utils for send a simple message to telegram

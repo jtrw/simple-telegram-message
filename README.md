@@ -1,7 +1,7 @@
 # Simple Telegram Message 
 
 [![Phpunit](https://github.com/jtrw/simple-telegram-message/workflows/PHP%20Composer/badge.svg)](https://github.com/jtrw/simple-telegram-message/actions)
-[![Codecov](https://codecov.io/gh/jtrw/simple-telegram-message/branch/master/graph/badge.svg?token=FYMTSQDQP5)](https://codecov.io/gh/jtrw/simple-telegram-message)
+[![codecov](https://codecov.io/gh/jtrw/simple-telegram-message/branch/master/graph/badge.svg?token=UADT3RAW2A)](https://codecov.io/gh/jtrw/simple-telegram-message)
 [![Latest Stable Version](http://poser.pugx.org/jtrw/simple-telegram-message/v)](https://packagist.org/packages/jtrw/simple-telegram-message) [![Total Downloads](http://poser.pugx.org/jtrw/simple-telegram-message/downloads)](https://packagist.org/packages/jtrw/simple-telegram-message) [![Latest Unstable Version](http://poser.pugx.org/jtrw/simple-telegram-message/v/unstable)](https://packagist.org/packages/jtrw/simple-telegram-message) [![License](http://poser.pugx.org/jtrw/simple-telegram-message/license)](https://packagist.org/packages/jtrw/simple-telegram-message) [![PHP Version Require](http://poser.pugx.org/jtrw/simple-telegram-message/require/php)](https://packagist.org/packages/jtrw/simple-telegram-message)
 
 
